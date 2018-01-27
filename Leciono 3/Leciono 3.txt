@@ -1,0 +1,73 @@
+mateno	morning	
+vespero	evening	
+nokto	night	
+tago	day	
+semajno	week	
+monato	month	
+jaro	year	
+jarcento	age	
+lundo	monday	
+mardo	tuesday	
+merkredo	wensday	
+ĵaŭdo	thursday	
+vendredo	friday	
+sabato	saturday	
+dimanĉo	sunday	
+printempo	spring	
+somero	summer	
+aŭturo	autumn	
+vintro	winter	
+pensi	to think (in general)	
+mi opinias ke	I think that	
+kredi	to believe	
+dubi	to doubt	
+timi	to be afraid of	
+preni	to take	
+tuŝi	to touch	
+montri	to show / to point	
+ĵeti	to throw	
+kapti	to catch	
+ekstari	to stand up	
+sidiĝi	to sit down	
+salti	to jump	
+aplaŭdi	to applause	
+nordo	north	
+sudo	south	
+oriento	east	
+okcidento	west	
+veturi	to ride, to transport (inside a vehicle)	
+buso	bus	
+trajno	train	
+aviadilo	plane	
+rajdi biciklon	to ride a bicycle	
+rajdi ĉevalon	to ride a horse	
+de	from (the border, the start)	
+el	from (inside)	
+al	to	
+ĝis	until	
+tra	through	
+preter	(to go) past (smth)	
+Why?	Kial?	
+How?	Kiel?	
+How many... / How much...	Kiom da...	
+ridi	to laugh	
+pravi	to be right	
+mojosa	cool	
+pordo	door	
+ripari	to fix	
+because	ĉar	
+When?	Kiam?	
+hodiaŭ	today	
+morgaŭ	tommorow	
+hieraŭ	yesterday	
+a lot of time	multe da tempo	
+Bless you! (after sneezing)	Estu sana	
+Where?	Kie?	
+Which one?	Kiu?	
+somehow	iel	
+everywhere	ĉie	
+for that reason	tial	
+never	neniam	
+ŝlosilo	a key	
+tranĉilo	a knife	
+tondilo	scissors&nbsp;	
