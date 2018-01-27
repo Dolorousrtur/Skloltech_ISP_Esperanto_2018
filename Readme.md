@@ -25,7 +25,7 @@ And here is the list of resources/links to stick with Esperanto further:
 <li><a href="https://www.youtube.com/user/Evildela">Evildea</a>&nbsp;<br />The most popular and really enjiyable videoblogger in Esperantujo</li>
 <li><a href="https://www.youtube.com/channel/UCZLuNvGx99zmlEQL0oR_uvg">Verdaj Aferoj De Ginny</a><br />"Mother of all Polish videobloggers", who is learning and speaking Esperanto now.</li>
 </ul>
-<p>There are a lot more of them, but I don't want to suggest to you those about whom I don't know much or don't really enjoy myself. You can fing the list of some other guys on this <a href="https://www.youtube.com/channel/UCgYTmlAedgFze6SGGGvXG2A">channel</a>&nbsp;(on the right "BONAJ ESPERANTAJ KANALOJ")</p>
+<p>There are a lot more of them, but I don't want to suggest to you those about whom I don't know much or don't really enjoy myself. You can find the list of some other guys on this <a href="https://www.youtube.com/channel/UCgYTmlAedgFze6SGGGvXG2A">channel</a>&nbsp;(on the right "BONAJ ESPERANTAJ KANALOJ")</p>
 <p><strong>Eventoj</strong></p>
 <p>Come and meet Esperanto community in real life!</p>
 <ul>
